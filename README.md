@@ -9,7 +9,9 @@ Here by I uploaded a few console application using java, I hope you will go thro
 6. Vehicle Rental System
 
 # ATM
-No.of Login -> Admin , User 
+ No.of Login -> 2
+   1.Admin 
+   2. User 
 
   1.Admin 
   
@@ -33,4 +35,34 @@ No.of Login -> Admin , User
       5.Transfer Amount
       6.Transaction History
 
-#Train Booking Application
+# Train Booking Application
+
+  No.of Login -> 3
+    1. Admin Login 
+    2. Merchant Login
+    3.User login 
+    
+  1.Admin
+  
+    Authentication 
+      1.Admin ID - admin
+      2.Password - 1234
+    Usecase 
+      1.Approve List
+      2.Add Merchands
+      3.Remove 
+  
+  2.Merchant
+    
+    Authentication 
+      Every new Merchant must  approved by admin , after he/she authenticated to login.
+      1.Merchant ID   -  101
+      2.Password      -  1234
+    Usecase 
+      1.Add product
+      2.remove product
+      3.View product
+      4.Update Product
+   
+   3.User
+    
