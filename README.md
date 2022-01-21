@@ -10,6 +10,7 @@ Here by I uploaded a few console application using java, I hope you will go thro
 
 # ATM
 No.of Login -> Admin , User 
+
   1.Admin 
     Authentication 
       Admin ID       - Arun
@@ -17,6 +18,7 @@ No.of Login -> Admin , User
     Usecase 
       Add Amount 
       Show Amount
+      
   2.User
     Authentication
       User ID  - arun
