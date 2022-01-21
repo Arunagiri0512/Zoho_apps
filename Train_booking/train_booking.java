@@ -1,4 +1,4 @@
-
+package Train_booking;
 import java.util.*;
 public class train_booking {
     private static final String train_name = "Chennai Super Fast Express";
