@@ -8,4 +8,25 @@ Here by I uploaded a few console application using java, I hope you will go thro
 5. Splitwise
 6. Vehicle Rental System
 
-1.
+# ATM
+No.of Login -> Admin , User 
+  1.Admin 
+    Authentication 
+      Admin ID       - Arun
+      Admin Password - 1234
+    Usecase 
+      Add Amount 
+      Show Amount
+  2.User
+    Authentication
+      User ID  - arun
+      Password - 0512
+    Usecase
+      Withdraw Amount
+      Deposit Amount
+      Check Balance
+      Change Account Pin
+      Transfer Amount
+      ransaction History
+
+    
