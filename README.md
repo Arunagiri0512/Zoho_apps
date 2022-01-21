@@ -1,4 +1,4 @@
-# ------------------ Welcome Visitor -----------------
+# --------------------- Welcome Visitor --------------------
 
 Here by I uploaded a few console application using java, I hope you will go through it and review.
 1. ATM Application
@@ -14,23 +14,23 @@ No.of Login -> Admin , User
   1.Admin 
   
     Authentication 
-      Admin ID       - Arun
-      Admin Password - 1234
+      1.Admin ID       - Arun
+      2.Admin Password - 1234
     Usecase 
-      Add Amount 
-      Show Amount
+      1.Add Amount 
+      2.Show Amount
       
   2.User
   
     Authentication
-      User ID  - arun
-      Password - 0512
+      1.User ID  - arun
+      2.Password - 0512
     Usecase
-      Withdraw Amount
-      Deposit Amount
-      Check Balance
-      Change Account Pin
-      Transfer Amount
-      ransaction History
+      1.Withdraw Amount
+      2.Deposit Amount
+      3.Check Balance
+      4.Change Account Pin
+      5.Transfer Amount
+      6.Transaction History
 
-    
+#Train Booking Application
