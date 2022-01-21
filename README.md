@@ -12,6 +12,7 @@ Here by I uploaded a few console application using java, I hope you will go thro
 No.of Login -> Admin , User 
 
   1.Admin 
+  
     Authentication 
       Admin ID       - Arun
       Admin Password - 1234
@@ -20,6 +21,7 @@ No.of Login -> Admin , User
       Show Amount
       
   2.User
+  
     Authentication
       User ID  - arun
       Password - 0512
