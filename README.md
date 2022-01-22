@@ -1,4 +1,4 @@
-# --------------------- Welcome Visitor --------------------
+# Welcome Visitor 
 
 Here by I uploaded a few console application using java, I hope you will go through it and review.
 1. ATM Application
@@ -10,6 +10,7 @@ Here by I uploaded a few console application using java, I hope you will go thro
 
 # ATM
  No.of Login -> 2
+ 
    1.Admin 
    2. User 
 
@@ -38,6 +39,7 @@ Here by I uploaded a few console application using java, I hope you will go thro
 # Amazon Application
 
   No.of Login -> 3
+  
     1. Admin Login 
     2. Merchant Login
     3.User login 
@@ -79,6 +81,7 @@ Here by I uploaded a few console application using java, I hope you will go thro
  # Train Booking System
   
   No of Login - 2
+  
    1.Admin
    2.Passengers
    
@@ -108,6 +111,7 @@ Here by I uploaded a few console application using java, I hope you will go thro
   # Library Management System
   
   No of Login - 2
+  
    1.Admin
    2.Users
    
@@ -142,6 +146,7 @@ Here by I uploaded a few console application using java, I hope you will go thro
 # Splitwise Application
   
   No of Login - 2
+  
    1.Going out
    2.User Home
    
@@ -170,6 +175,7 @@ Here by I uploaded a few console application using java, I hope you will go thro
 # Vehicle Rental System
   
   No of Login - 2
+  
    1.Admin
    2.User
    
